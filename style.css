@@ -1,0 +1,45 @@
+#top{
+    width: 600px;
+    height: 100px;
+    background:rgb(185, 8, 8);
+    font-size: 50px;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    
+    
+}
+#bottom{
+    width: 600px;
+    height: 100px;
+    background: rgb(185, 8, 8);
+}
+#center{
+    width: 600px;
+    height: 200px;
+    background-color: rgb(13, 13, 108);
+}
+#circle{
+    width: 60px;
+    height: 60px;
+   
+   
+}
+#circle img{
+    width:150px;
+    height:150px;
+    background-color: #fff;
+    border-radius:50% ;
+    position:absolute;
+    left:20%;
+    top:130px;
+    
+}
+
+
+
+
+  
+
+
+
+
